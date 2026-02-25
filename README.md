@@ -1,3 +1,4 @@
+```java
 public class Student extends Human {
 
 private String name = "Deyssi"; 
@@ -19,3 +20,4 @@ public void dailyRoutine() {
 System.err.println("Error: SleepNotFoundException"); 
 
 }
+```
